@@ -1,2 +1,2 @@
 # Neuro-allergy-Classifier
-Computational neuro-immunology project testing whether food allergy and neurological diseases share detectable gene expression patterns.
+Computational immunology project evaluating EVA feature selection --> classifier pipeline on food allergy cohort
